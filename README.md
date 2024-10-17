@@ -15,7 +15,7 @@ Este proyecto utiliza técnicas de clustering (K-means) para segmentar clientes 
 
 ## Requisitos  
 - **Lenguaje:** R  
-- **Paquetes:** `tidyverse`, `cluster`, `factoextra`, `gridExtra`  
+- **Paquetes:** `readxl`, `dplyr`, `ggplot2`, `cluster`, `factoextra`, `gridExtra` , `knitr`.  
 
 ## Cómo Ejecutar  
 1. Descargar los archivos del repositorio.  
