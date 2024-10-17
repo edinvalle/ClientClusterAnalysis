@@ -5,13 +5,13 @@ Este proyecto utiliza técnicas de clustering (K-means) para segmentar clientes 
 ## Archivos del Proyecto
 
 1. **Customer_Clustering_Analysis_Report.pdf**  
-   Informe detallado del análisis, incluyendo la metodología, visualizaciones, resultados, y conclusiones obtenidas del clustering.
+   Informe detallado del análisis, incluyendo la metodología, visualizaciones, resultados, y conclusiones obtenidas del clustering. [PDF](https://github.com/edinvalle/ClientClusterAnalysis/blob/main/Customer_Clustering_Analysis_Report.pdf  )
 
 2. **Customer_Clustering_Analysis.html**  
-   Versión interactiva del análisis en formato HTML para su visualización en navegadores web.
+   Versión interactiva del análisis en formato HTML para su visualización en navegadores web. [HTML](https://github.com/edinvalle/ClientClusterAnalysis/blob/main/Customer_Clustering_Analysis.html  )
 
 3. **Customer_Data.xlsx**  
-   Dataset utilizado para el análisis, que contiene las variables relevantes: edad, ingresos y tamaño de la ciudad.
+   Dataset utilizado para el análisis, que contiene las variables relevantes: edad, ingresos y tamaño de la ciudad. [Excel]( https://github.com/edinvalle/ClientClusterAnalysis/blob/main/Customer_Data.xlsx)
 
 ## Requisitos  
 - **Lenguaje:** R  
